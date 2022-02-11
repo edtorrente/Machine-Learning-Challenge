@@ -1,4 +1,18 @@
-# Machine-Learning-Challenge
+# Machine Learning Homework - Exoplanet Exploration
+
+![exoplanets.jpg](Images/exoplanets.jpg)
+
+### Before You Begin
+
+1. Create a new repository for this project called `machine-learning-challenge`. **Do not add this homework to an existing repository**.
+
+2. Clone the new repository to your computer.
+
+3. Give each model you choose their own Jupyter notebook, **do not use more than one model per notebook.**
+
+4. Save your best model to a file. This will be the model used to test your accuracy and used for grading.
+
+5. Commit your Jupyter notebooks and model file and push them to GitHub.
 
 ## Background
 
@@ -30,4 +44,20 @@ In this homework assignment, you will need to:
 
 ### Reporting
 
-* Create a README that reports a comparison of each model's performance as well as a summary about your findings and any assumptions you can make based on your model (is your model good enough to predict new exoplanets? Why or why not? What would make your model be better at predicting new exoplanets?).
+
+### Machine Training Comparison Results:
+
+![MachineTraining.png](Images/MachineTraining.png)
+
+### Hyperparameter Tuning Comparison Results:
+
+![HyperTuning.png](Images/HyperTuning.png)
+
+### Prediction Comparson Results:
+
+![Predictions.png](Images/Predictions.png)
+
+   ## As indicated on the slides above the best model for this dataset is the Random Forest Classifier with best training/testing scores, even after the hyperparameters were  tuned. The Random Forest Classifier also have better prediction scores compared to the Logistic Regression and Support Vector Machine.
+
+- - -
+
