@@ -47,15 +47,15 @@ In this homework assignment, you will need to:
 
 ### Machine Training Comparison Results:
 
-![MachineTraining.png](Instructions/Images/MachineTraining.png)
+![MachineTraining.png](Instructions/Images/MachineTraining.jpg)
 
 ### Hyperparameter Tuning Comparison Results:
 
-![HyperTuning.png](Instructions/Images/HyperTuning.png)
+![HyperTuning.png](Instructions/Images/HyperTuning.jpg)
 
 ### Prediction Comparson Results:
 
-![Predictions.png](Instructions/Images/Predictions.png)
+![Predictions.png](Instructions/Images/Predictions.jpg)
 
    ## As indicated on the slides above the best model for this dataset is the Random Forest Classifier with best training/testing scores, even after the hyperparameters were  tuned. The Random Forest Classifier also have better prediction scores compared to the Logistic Regression and Support Vector Machine.
 
