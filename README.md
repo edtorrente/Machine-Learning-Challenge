@@ -1,6 +1,6 @@
 # Machine Learning Homework - Exoplanet Exploration
 
-![exoplanets.jpg](Instructions/Images/exoplanets.jpg)
+![exoplanets.jpg](Images/exoplanets.jpg)
 
 ### Before You Begin
 
@@ -47,17 +47,18 @@ In this homework assignment, you will need to:
 
 ### Machine Training Comparison Results:
 
-![MachineTraining.png](Instructions/Images/MachineTraining.png)
+![MachineTraining.jpg](Images/MachineTraining.jpg)
 
 ### Hyperparameter Tuning Comparison Results:
 
-![HyperTuning.png](Instructions/Images/HyperTuning.png)
+![HyperTuning.jpg](Images/HyperTuning.jpg)
 
 ### Prediction Comparson Results:
 
-![Predictions.png](Instructions/Images/Predictions.png)
+![Predictions.jpg](Images/Predictions.jpg)
 
-   ## As indicated on the slides above the best model for this dataset is the Random Forest Classifier with best training/testing scores, even after the hyperparameters were  tuned. The Random Forest Classifier also have better prediction scores compared to the Logistic Regression and Support Vector Machine.
+   ## As indicated on the slides above the best model for this dataset is the Random Forest Classifier with best training/testing scores, even after the hyperparameters were tuned. 
+      The Random Forest Classifier also have better prediction scores compared to the Logistic Regression and Support Vector Machine.
 
 - - -
 
